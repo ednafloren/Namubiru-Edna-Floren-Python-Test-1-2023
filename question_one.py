@@ -12,5 +12,7 @@
 
 # ii)
 age=22
+# converting age to float datatype
 newAge=float(age)
+# printing the data type
 print(type(newAge))
